@@ -41,3 +41,4 @@ vignettes/*.pdf
 # Other files
 .DS_Store
 .Rprofile
+rsconnect/
