@@ -1,0 +1,11 @@
+name: monthly-expenses-calculator
+title:
+username:
+account: sebastianernstroth
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8815041
+bundleId: 7073789
+url: https://sebastianernstroth.shinyapps.io/monthly-expenses-calculator/
+when: 1681185903.23542
+lastSyncTime: 1681185903.23543
