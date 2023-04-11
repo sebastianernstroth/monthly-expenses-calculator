@@ -5,7 +5,7 @@ account: sebastianernstroth
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 8815041
-bundleId: 7073789
+bundleId: 7074419
 url: https://sebastianernstroth.shinyapps.io/monthly-expenses-calculator/
-when: 1681185903.23542
-lastSyncTime: 1681185903.23543
+when: 1681198771.63521
+lastSyncTime: 1681198771.63522
